@@ -1,0 +1,130 @@
+body{
+    background-color: white;
+}
+.img{
+    border-radius: 50%;
+    object-position: 50% 50%;
+    text-align: center;
+    float:initial;
+}
+.spotify{
+    text-align: center;
+    font-family: 'Montserrat', sans-serif;
+}
+.sign-up{
+    text-align: center;
+    
+
+    
+}
+.or{
+    text-align: center;
+}
+.your-email{
+    text-align:center ;
+    font-family: 'Merriweather', serif;
+}
+.container{
+    text-align: center;
+}
+.item-1{
+    text-align: center;
+}
+.item-2{
+    text-align: center;
+}
+.item-3{
+    text-align: center;
+}
+.item-4{
+    text-align: center;
+    font-family: 'Merriweather', serif;
+}
+.item-5{
+    text-align: center;
+}
+.item-6{
+    text-align: center;
+}
+.male{
+    text-align: center;
+    font-family: 'Merriweather', serif;
+}
+.female{
+    text-align: center;
+    font-family: 'Merriweather', serif;
+}
+.binary{
+    text-align: center;
+    font-family: 'Merriweather', serif;
+}
+.checkbox{
+    text-align: center;
+    font-family: 'Merriweather', serif;
+}
+.footer{
+    text-align: center;
+    font-family: 'Montserrat', sans-serif;
+}
+
+.container span{
+    position: relative;
+    bottom: 10px;
+    right: 3px;
+    font-size: 14px;
+    color: red;
+}
+
+
+.item-1 span{
+    position: relative;
+    bottom: 10px;
+    right: 3px;
+    font-size: 14px;
+    color: red;
+}
+.item-2 span{
+    position: relative;
+    bottom: 10px;
+    right: 3px;
+    font-size: 14px;
+    color: red;
+}
+.item-3 span{
+    position: relative;
+    bottom: 10px;
+    right: 3px;
+    font-size: 14px;
+    color: red;
+}
+
+.item-4 span{
+    position: relative;
+    bottom: 10px;
+    right: 3px;
+    font-size: 14px;
+    color: red;
+}
+
+
+
+
+
+.container span i{
+    color: seagreen;
+}
+.item-2 span i{
+    color: seagreen;
+}
+.item-3 span i{
+    color: seagreen; 
+}
+
+.item-4 span i{
+    color: seagreen; 
+}
+
+
+#signup-error{
+    color: red;
+}
